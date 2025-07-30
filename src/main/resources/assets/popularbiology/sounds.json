@@ -1,0 +1,176 @@
+{
+  "jiyi_tame_sound": {
+    "sounds": [
+      "popularbiology:yangpapa"
+    ]
+  },
+  "wusaqi_tame_sound": {
+    "sounds": [
+      "popularbiology:wula1"
+    ]
+  },
+  "xiaoba_tame_sound": {
+    "sounds": [
+      "popularbiology:oi"
+    ]
+  },
+  "feishu_tame_sound": {
+    "sounds": [
+      "popularbiology:midie"
+    ]
+  },
+  "lizimantou_tame_sound": {
+    "sounds": [
+      "popularbiology:lizimantou_tame"
+    ]
+  },
+  "yuguigou_tame_sound": {
+    "sounds": [
+      "popularbiology:laughing2"
+    ]
+  },
+  "shisa_tame_sound": {
+    "sounds": [
+      "popularbiology:shisa_tame_sound"
+    ]
+  },
+  "laishi_tame_sound": {
+    "sounds": [
+      "popularbiology:laishi_tame_sound"
+    ]
+  },
+  "nailong_tame_sound": {
+    "sounds": [
+      "popularbiology:nailong_tame_sound"
+    ]
+  },
+
+
+
+  "jiyi_gethurt_sound": {
+    "sounds": [
+      "popularbiology:yadan"
+    ]
+  },
+  "wusaqi_gethurt_sound": {
+    "sounds": [
+      "popularbiology:ha2"
+    ]
+  },
+  "xiaoba_gethurt_sound": {
+    "sounds": [
+      "popularbiology:naninani"
+    ]
+  },
+  "feishu_gethurt_sound": {
+    "sounds": [
+      "popularbiology:aqige"
+    ]
+  },
+  "lizimantou_gethurt_sound": {
+    "sounds": [
+      "popularbiology:lizimantou_gethurt"
+    ]
+  },
+  "yuguigou_gethurt_sound": {
+    "sounds": [
+      "popularbiology:heixiu"
+    ]
+  },
+  "shisa_gethurt_sound": {
+    "sounds": [
+      "popularbiology:shisa_gethurt_sound"
+    ]
+  },
+  "laishi_gethurt_sound": {
+    "sounds": [
+      "popularbiology:laishi_hurt_sound"
+    ]
+  },
+  "nailong_gethurt_sound": {
+    "sounds": [
+      "popularbiology:nailong_hurt_sound"
+    ]
+  },
+
+
+
+  "jiyi_death_sound": {
+    "sounds": [
+      "popularbiology:waooo"
+    ]
+  },
+  "wusaqi_death_sound": {
+    "sounds": [
+      "popularbiology:ha1"
+    ]
+  },
+  "xiaoba_death_sound": {
+    "sounds": [
+      "popularbiology:jianjianwaganai"
+    ]
+  },
+  "feishu_death_sound": {
+    "sounds": [
+      "popularbiology:yiya"
+    ]
+  },
+  "lizimantou_death_sound": {
+    "sounds": [
+      "popularbiology:lizimantou_death"
+    ]
+  },
+  "yuguigou_death_sound": {
+    "sounds": [
+      "popularbiology:duolie"
+    ]
+  },
+  "shisa_death_sound": {
+    "sounds": [
+      "popularbiology:shisa_death_sound"
+    ]
+  },
+  "laishi_death_sound": {
+    "sounds": [
+      "popularbiology:laishi_death_sound"
+    ]
+  },
+  "nailong_death_sound": {
+    "sounds": [
+      "popularbiology:nailong_death_sound"
+    ]
+  },
+
+
+
+  "wusaqi_attack_sound": {
+    "sounds": [
+      "popularbiology:wusaqi_attack_sound"
+    ]
+  },
+  "wusaqi_boot_1": {
+    "sounds": [
+      "popularbiology:wusaqi_boot_1"
+    ]
+  },
+  "wusaqi_boot_2": {
+    "sounds": [
+      "popularbiology:wusaqi_boot_2"
+    ]
+  },
+  "wusaqi_boot_3": {
+    "sounds": [
+      "popularbiology:wusaqi_boot_3"
+    ]
+  },
+  "wusaqi_boot_4": {
+    "sounds": [
+      "popularbiology:wusaqi_boot_4"
+    ]
+  },
+  "wusaqi_heng": {
+    "sounds": [
+      "popularbiology:wusaqi_heng"
+    ]
+  }
+}
